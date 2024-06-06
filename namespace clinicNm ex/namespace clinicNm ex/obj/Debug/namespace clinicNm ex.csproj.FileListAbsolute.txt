@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\namespace clinicNm ex\namespace clinicNm ex\bin\Debug\namespace clinicNm ex.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\namespace clinicNm ex\namespace clinicNm ex\bin\Debug\namespace clinicNm ex.exe
+C:\Users\hp\Desktop\Priyanka_Programs\namespace clinicNm ex\namespace clinicNm ex\bin\Debug\namespace clinicNm ex.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\namespace clinicNm ex\namespace clinicNm ex\obj\Debug\namespace clinicNm ex.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\namespace clinicNm ex\namespace clinicNm ex\obj\Debug\namespace clinicNm ex.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\namespace clinicNm ex\namespace clinicNm ex\obj\Debug\namespace clinicNm ex.exe
+C:\Users\hp\Desktop\Priyanka_Programs\namespace clinicNm ex\namespace clinicNm ex\obj\Debug\namespace clinicNm ex.pdb
