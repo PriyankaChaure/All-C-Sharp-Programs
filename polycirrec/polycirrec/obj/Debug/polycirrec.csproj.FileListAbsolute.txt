@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\polycirrec\polycirrec\bin\Debug\polycirrec.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\polycirrec\polycirrec\bin\Debug\polycirrec.exe
+C:\Users\hp\Desktop\Priyanka_Programs\polycirrec\polycirrec\bin\Debug\polycirrec.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\polycirrec\polycirrec\obj\Debug\polycirrec.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\polycirrec\polycirrec\obj\Debug\polycirrec.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\polycirrec\polycirrec\obj\Debug\polycirrec.exe
+C:\Users\hp\Desktop\Priyanka_Programs\polycirrec\polycirrec\obj\Debug\polycirrec.pdb
