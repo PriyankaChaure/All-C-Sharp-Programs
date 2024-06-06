@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\universal type ex\universal type ex\bin\Debug\universal type ex.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\universal type ex\universal type ex\bin\Debug\universal type ex.exe
+C:\Users\hp\Desktop\Priyanka_Programs\universal type ex\universal type ex\bin\Debug\universal type ex.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\universal type ex\universal type ex\obj\Debug\universal type ex.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\universal type ex\universal type ex\obj\Debug\universal type ex.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\universal type ex\universal type ex\obj\Debug\universal type ex.exe
+C:\Users\hp\Desktop\Priyanka_Programs\universal type ex\universal type ex\obj\Debug\universal type ex.pdb
