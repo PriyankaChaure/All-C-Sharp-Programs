@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\even odd count\even odd count\bin\Debug\even odd count.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\even odd count\even odd count\bin\Debug\even odd count.exe
+C:\Users\hp\Desktop\Priyanka_Programs\even odd count\even odd count\bin\Debug\even odd count.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\even odd count\even odd count\obj\Debug\even odd count.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\even odd count\even odd count\obj\Debug\even odd count.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\even odd count\even odd count\obj\Debug\even odd count.exe
+C:\Users\hp\Desktop\Priyanka_Programs\even odd count\even odd count\obj\Debug\even odd count.pdb
