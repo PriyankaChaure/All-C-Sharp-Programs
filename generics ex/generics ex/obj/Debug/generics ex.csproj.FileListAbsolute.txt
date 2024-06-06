@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\generics ex\generics ex\bin\Debug\generics ex.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\generics ex\generics ex\bin\Debug\generics ex.exe
+C:\Users\hp\Desktop\Priyanka_Programs\generics ex\generics ex\bin\Debug\generics ex.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\generics ex\generics ex\obj\Debug\generics ex.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\generics ex\generics ex\obj\Debug\generics ex.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\generics ex\generics ex\obj\Debug\generics ex.exe
+C:\Users\hp\Desktop\Priyanka_Programs\generics ex\generics ex\obj\Debug\generics ex.pdb
