@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\list max character\list max character\bin\Debug\list max character.exe.config
+F:\Priyanka_Programs\list max character\list max character\bin\Debug\list max character.exe
+F:\Priyanka_Programs\list max character\list max character\bin\Debug\list max character.pdb
+F:\Priyanka_Programs\list max character\list max character\obj\Debug\list max character.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\list max character\list max character\obj\Debug\list max character.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\list max character\list max character\obj\Debug\list max character.exe
+F:\Priyanka_Programs\list max character\list max character\obj\Debug\list max character.pdb
