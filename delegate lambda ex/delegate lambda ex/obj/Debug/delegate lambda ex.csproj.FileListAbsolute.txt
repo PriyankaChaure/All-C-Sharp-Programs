@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\delegate lambda ex\delegate lambda ex\bin\Debug\delegate lambda ex.exe.config
+F:\Priyanka_Programs\delegate lambda ex\delegate lambda ex\bin\Debug\delegate lambda ex.exe
+F:\Priyanka_Programs\delegate lambda ex\delegate lambda ex\bin\Debug\delegate lambda ex.pdb
+F:\Priyanka_Programs\delegate lambda ex\delegate lambda ex\obj\Debug\delegate lambda ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\delegate lambda ex\delegate lambda ex\obj\Debug\delegate lambda ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\delegate lambda ex\delegate lambda ex\obj\Debug\delegate lambda ex.exe
+F:\Priyanka_Programs\delegate lambda ex\delegate lambda ex\obj\Debug\delegate lambda ex.pdb
