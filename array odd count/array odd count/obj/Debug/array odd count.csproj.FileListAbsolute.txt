@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\array odd count\array odd count\bin\Debug\array odd count.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\array odd count\array odd count\bin\Debug\array odd count.exe
+C:\Users\hp\Desktop\Priyanka_Programs\array odd count\array odd count\bin\Debug\array odd count.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\array odd count\array odd count\obj\Debug\array odd count.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\array odd count\array odd count\obj\Debug\array odd count.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\array odd count\array odd count\obj\Debug\array odd count.exe
+C:\Users\hp\Desktop\Priyanka_Programs\array odd count\array odd count\obj\Debug\array odd count.pdb
