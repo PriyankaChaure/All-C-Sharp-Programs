@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\Collection_universalc_stack\Collection_universalc_stack\bin\Debug\Collection_universalc_stack.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\Collection_universalc_stack\Collection_universalc_stack\bin\Debug\Collection_universalc_stack.exe
+C:\Users\hp\Desktop\Priyanka_Programs\Collection_universalc_stack\Collection_universalc_stack\bin\Debug\Collection_universalc_stack.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\Collection_universalc_stack\Collection_universalc_stack\obj\Debug\Collection_universalc_stack.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\Collection_universalc_stack\Collection_universalc_stack\obj\Debug\Collection_universalc_stack.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\Collection_universalc_stack\Collection_universalc_stack\obj\Debug\Collection_universalc_stack.exe
+C:\Users\hp\Desktop\Priyanka_Programs\Collection_universalc_stack\Collection_universalc_stack\obj\Debug\Collection_universalc_stack.pdb
