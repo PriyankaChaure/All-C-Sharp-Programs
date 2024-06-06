@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\star pattern\star pattern\bin\Debug\star pattern.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\star pattern\star pattern\bin\Debug\star pattern.exe
+C:\Users\hp\Desktop\Priyanka_Programs\star pattern\star pattern\bin\Debug\star pattern.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\star pattern\star pattern\obj\Debug\star pattern.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\star pattern\star pattern\obj\Debug\star pattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\star pattern\star pattern\obj\Debug\star pattern.exe
+C:\Users\hp\Desktop\Priyanka_Programs\star pattern\star pattern\obj\Debug\star pattern.pdb
