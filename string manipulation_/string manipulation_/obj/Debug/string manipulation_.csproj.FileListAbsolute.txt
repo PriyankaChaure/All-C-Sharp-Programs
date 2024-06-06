@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\string manipulation_\string manipulation_\bin\Debug\string manipulation_.exe.config
+F:\Priyanka_Programs\string manipulation_\string manipulation_\bin\Debug\string manipulation_.exe
+F:\Priyanka_Programs\string manipulation_\string manipulation_\bin\Debug\string manipulation_.pdb
+F:\Priyanka_Programs\string manipulation_\string manipulation_\obj\Debug\string manipulation_.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\string manipulation_\string manipulation_\obj\Debug\string manipulation_.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\string manipulation_\string manipulation_\obj\Debug\string manipulation_.exe
+F:\Priyanka_Programs\string manipulation_\string manipulation_\obj\Debug\string manipulation_.pdb
