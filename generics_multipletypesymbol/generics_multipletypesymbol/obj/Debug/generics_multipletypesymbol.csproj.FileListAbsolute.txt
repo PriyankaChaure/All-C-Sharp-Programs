@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\generics_multipletypesymbol\generics_multipletypesymbol\bin\Debug\generics_multipletypesymbol.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\generics_multipletypesymbol\generics_multipletypesymbol\bin\Debug\generics_multipletypesymbol.exe
+C:\Users\hp\Desktop\Priyanka_Programs\generics_multipletypesymbol\generics_multipletypesymbol\bin\Debug\generics_multipletypesymbol.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\generics_multipletypesymbol\generics_multipletypesymbol\obj\Debug\generics_multipletypesymbol.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\generics_multipletypesymbol\generics_multipletypesymbol\obj\Debug\generics_multipletypesymbol.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\generics_multipletypesymbol\generics_multipletypesymbol\obj\Debug\generics_multipletypesymbol.exe
+C:\Users\hp\Desktop\Priyanka_Programs\generics_multipletypesymbol\generics_multipletypesymbol\obj\Debug\generics_multipletypesymbol.pdb
