@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\structure ex\structure ex\bin\Debug\structure ex.exe.config
+F:\Priyanka_Programs\structure ex\structure ex\bin\Debug\structure ex.exe
+F:\Priyanka_Programs\structure ex\structure ex\bin\Debug\structure ex.pdb
+F:\Priyanka_Programs\structure ex\structure ex\obj\Debug\structure ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\structure ex\structure ex\obj\Debug\structure ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\structure ex\structure ex\obj\Debug\structure ex.exe
+F:\Priyanka_Programs\structure ex\structure ex\obj\Debug\structure ex.pdb
