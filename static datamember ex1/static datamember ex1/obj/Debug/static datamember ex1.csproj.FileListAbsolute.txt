@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember ex1\static datamember ex1\bin\Debug\static datamember ex1.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember ex1\static datamember ex1\bin\Debug\static datamember ex1.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember ex1\static datamember ex1\bin\Debug\static datamember ex1.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember ex1\static datamember ex1\obj\Debug\static datamember ex1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember ex1\static datamember ex1\obj\Debug\static datamember ex1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember ex1\static datamember ex1\obj\Debug\static datamember ex1.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember ex1\static datamember ex1\obj\Debug\static datamember ex1.pdb
