@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\display array\display array\obj\Debug\display array.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\display array\display array\obj\Debug\display array.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\display array\display array\bin\Debug\display array.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\display array\display array\bin\Debug\display array.exe
+C:\Users\hp\Desktop\Priyanka_Programs\display array\display array\bin\Debug\display array.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\display array\display array\obj\Debug\display array.exe
+C:\Users\hp\Desktop\Priyanka_Programs\display array\display array\obj\Debug\display array.pdb
