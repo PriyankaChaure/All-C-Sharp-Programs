@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\delegate ananymous method ex\delegate ananymous method ex\bin\Debug\delegate ananymous method ex.exe.config
+F:\Priyanka_Programs\delegate ananymous method ex\delegate ananymous method ex\bin\Debug\delegate ananymous method ex.exe
+F:\Priyanka_Programs\delegate ananymous method ex\delegate ananymous method ex\bin\Debug\delegate ananymous method ex.pdb
+F:\Priyanka_Programs\delegate ananymous method ex\delegate ananymous method ex\obj\Debug\delegate ananymous method ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\delegate ananymous method ex\delegate ananymous method ex\obj\Debug\delegate ananymous method ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\delegate ananymous method ex\delegate ananymous method ex\obj\Debug\delegate ananymous method ex.exe
+F:\Priyanka_Programs\delegate ananymous method ex\delegate ananymous method ex\obj\Debug\delegate ananymous method ex.pdb
