@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\discount_program\discount_program\obj\Debug\discount_program.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\discount_program\discount_program\obj\Debug\discount_program.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\discount_program\discount_program\bin\Debug\discount_program.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\discount_program\discount_program\bin\Debug\discount_program.exe
+C:\Users\hp\Desktop\Priyanka_Programs\discount_program\discount_program\bin\Debug\discount_program.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\discount_program\discount_program\obj\Debug\discount_program.exe
+C:\Users\hp\Desktop\Priyanka_Programs\discount_program\discount_program\obj\Debug\discount_program.pdb
