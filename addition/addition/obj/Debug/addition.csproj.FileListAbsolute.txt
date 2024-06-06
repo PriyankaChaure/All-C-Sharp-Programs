@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\addition\addition\obj\Debug\addition.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\addition\addition\obj\Debug\addition.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\addition\addition\bin\Debug\addition.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\addition\addition\bin\Debug\addition.exe
+C:\Users\hp\Desktop\Priyanka_Programs\addition\addition\bin\Debug\addition.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\addition\addition\obj\Debug\addition.exe
+C:\Users\hp\Desktop\Priyanka_Programs\addition\addition\obj\Debug\addition.pdb
