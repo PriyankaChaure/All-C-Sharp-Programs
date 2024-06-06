@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\multicast delegates\multicast delegates\bin\Debug\multicast delegates.exe.config
+F:\Priyanka_Programs\multicast delegates\multicast delegates\bin\Debug\multicast delegates.exe
+F:\Priyanka_Programs\multicast delegates\multicast delegates\bin\Debug\multicast delegates.pdb
+F:\Priyanka_Programs\multicast delegates\multicast delegates\obj\Debug\multicast delegates.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\multicast delegates\multicast delegates\obj\Debug\multicast delegates.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\multicast delegates\multicast delegates\obj\Debug\multicast delegates.exe
+F:\Priyanka_Programs\multicast delegates\multicast delegates\obj\Debug\multicast delegates.pdb
