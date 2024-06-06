@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\object slicing eg\object slicing eg\bin\Debug\object slicing eg.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\object slicing eg\object slicing eg\bin\Debug\object slicing eg.exe
+C:\Users\hp\Desktop\Priyanka_Programs\object slicing eg\object slicing eg\bin\Debug\object slicing eg.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\object slicing eg\object slicing eg\obj\Debug\object slicing eg.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\object slicing eg\object slicing eg\obj\Debug\object slicing eg.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\object slicing eg\object slicing eg\obj\Debug\object slicing eg.exe
+C:\Users\hp\Desktop\Priyanka_Programs\object slicing eg\object slicing eg\obj\Debug\object slicing eg.pdb
