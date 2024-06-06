@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\explicite interface\explicite interface\bin\Debug\explicite interface.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\explicite interface\explicite interface\bin\Debug\explicite interface.exe
+C:\Users\hp\Desktop\Priyanka_Programs\explicite interface\explicite interface\bin\Debug\explicite interface.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\explicite interface\explicite interface\obj\Debug\explicite interface.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\explicite interface\explicite interface\obj\Debug\explicite interface.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\explicite interface\explicite interface\obj\Debug\explicite interface.exe
+C:\Users\hp\Desktop\Priyanka_Programs\explicite interface\explicite interface\obj\Debug\explicite interface.pdb
