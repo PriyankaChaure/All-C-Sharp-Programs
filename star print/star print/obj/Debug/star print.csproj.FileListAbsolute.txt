@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\star print\star print\bin\Debug\star print.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\star print\star print\bin\Debug\star print.exe
+C:\Users\hp\Desktop\Priyanka_Programs\star print\star print\bin\Debug\star print.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\star print\star print\obj\Debug\star print.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\star print\star print\obj\Debug\star print.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\star print\star print\obj\Debug\star print.exe
+C:\Users\hp\Desktop\Priyanka_Programs\star print\star print\obj\Debug\star print.pdb
