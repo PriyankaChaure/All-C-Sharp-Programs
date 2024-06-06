@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\operatoroverloading pmeg\operatoroverloading pmeg\bin\Debug\operatoroverloading pmeg.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\operatoroverloading pmeg\operatoroverloading pmeg\bin\Debug\operatoroverloading pmeg.exe
+C:\Users\hp\Desktop\Priyanka_Programs\operatoroverloading pmeg\operatoroverloading pmeg\bin\Debug\operatoroverloading pmeg.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\operatoroverloading pmeg\operatoroverloading pmeg\obj\Debug\operatoroverloading pmeg.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\operatoroverloading pmeg\operatoroverloading pmeg\obj\Debug\operatoroverloading pmeg.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\operatoroverloading pmeg\operatoroverloading pmeg\obj\Debug\operatoroverloading pmeg.exe
+C:\Users\hp\Desktop\Priyanka_Programs\operatoroverloading pmeg\operatoroverloading pmeg\obj\Debug\operatoroverloading pmeg.pdb
