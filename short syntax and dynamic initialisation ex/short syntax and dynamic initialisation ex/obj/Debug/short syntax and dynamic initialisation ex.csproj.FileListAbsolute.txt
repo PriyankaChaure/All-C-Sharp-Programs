@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\short syntax and dynamic initialisation ex\short syntax and dynamic initialisation ex\bin\Debug\short syntax and dynamic initialisation ex.exe.config
+F:\Priyanka_Programs\short syntax and dynamic initialisation ex\short syntax and dynamic initialisation ex\bin\Debug\short syntax and dynamic initialisation ex.exe
+F:\Priyanka_Programs\short syntax and dynamic initialisation ex\short syntax and dynamic initialisation ex\bin\Debug\short syntax and dynamic initialisation ex.pdb
+F:\Priyanka_Programs\short syntax and dynamic initialisation ex\short syntax and dynamic initialisation ex\obj\Debug\short syntax and dynamic initialisation ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\short syntax and dynamic initialisation ex\short syntax and dynamic initialisation ex\obj\Debug\short syntax and dynamic initialisation ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\short syntax and dynamic initialisation ex\short syntax and dynamic initialisation ex\obj\Debug\short syntax and dynamic initialisation ex.exe
+F:\Priyanka_Programs\short syntax and dynamic initialisation ex\short syntax and dynamic initialisation ex\obj\Debug\short syntax and dynamic initialisation ex.pdb
