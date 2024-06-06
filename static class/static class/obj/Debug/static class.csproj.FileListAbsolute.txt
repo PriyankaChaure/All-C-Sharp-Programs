@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\static class\static class\bin\Debug\static class.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\static class\static class\bin\Debug\static class.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static class\static class\bin\Debug\static class.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\static class\static class\obj\Debug\static class.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static class\static class\obj\Debug\static class.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static class\static class\obj\Debug\static class.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static class\static class\obj\Debug\static class.pdb
