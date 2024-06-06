@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\static constructor\static constructor\bin\Debug\static constructor.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\static constructor\static constructor\bin\Debug\static constructor.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static constructor\static constructor\bin\Debug\static constructor.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\static constructor\static constructor\obj\Debug\static constructor.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static constructor\static constructor\obj\Debug\static constructor.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static constructor\static constructor\obj\Debug\static constructor.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static constructor\static constructor\obj\Debug\static constructor.pdb
