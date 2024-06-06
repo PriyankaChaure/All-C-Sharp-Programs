@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\partial modifier or keyword ex\partial modifier or keyword ex\bin\Debug\partial modifier or keyword ex.exe.config
+F:\Priyanka_Programs\partial modifier or keyword ex\partial modifier or keyword ex\bin\Debug\partial modifier or keyword ex.exe
+F:\Priyanka_Programs\partial modifier or keyword ex\partial modifier or keyword ex\bin\Debug\partial modifier or keyword ex.pdb
+F:\Priyanka_Programs\partial modifier or keyword ex\partial modifier or keyword ex\obj\Debug\partial modifier or keyword ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\partial modifier or keyword ex\partial modifier or keyword ex\obj\Debug\partial modifier or keyword ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\partial modifier or keyword ex\partial modifier or keyword ex\obj\Debug\partial modifier or keyword ex.exe
+F:\Priyanka_Programs\partial modifier or keyword ex\partial modifier or keyword ex\obj\Debug\partial modifier or keyword ex.pdb
