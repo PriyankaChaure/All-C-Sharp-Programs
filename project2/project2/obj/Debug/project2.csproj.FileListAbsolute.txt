@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\project2\project2\bin\Debug\project2.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\project2\project2\bin\Debug\project2.exe
+C:\Users\hp\Desktop\Priyanka_Programs\project2\project2\bin\Debug\project2.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\project2\project2\obj\Debug\project2.exe
+C:\Users\hp\Desktop\Priyanka_Programs\project2\project2\obj\Debug\project2.pdb
