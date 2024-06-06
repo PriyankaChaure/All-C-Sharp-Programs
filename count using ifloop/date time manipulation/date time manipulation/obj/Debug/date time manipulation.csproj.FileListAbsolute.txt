@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\date time manipulation\date time manipulation\bin\Debug\date time manipulation.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\date time manipulation\date time manipulation\bin\Debug\date time manipulation.exe
+C:\Users\hp\Desktop\Priyanka_Programs\date time manipulation\date time manipulation\bin\Debug\date time manipulation.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\date time manipulation\date time manipulation\obj\Debug\date time manipulation.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\date time manipulation\date time manipulation\obj\Debug\date time manipulation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\date time manipulation\date time manipulation\obj\Debug\date time manipulation.exe
+C:\Users\hp\Desktop\Priyanka_Programs\date time manipulation\date time manipulation\obj\Debug\date time manipulation.pdb
