@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\static example\static example\bin\Debug\static example.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\static example\static example\bin\Debug\static example.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static example\static example\bin\Debug\static example.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\static example\static example\obj\Debug\static example.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static example\static example\obj\Debug\static example.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static example\static example\obj\Debug\static example.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static example\static example\obj\Debug\static example.pdb
