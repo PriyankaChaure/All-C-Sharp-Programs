@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Priyanka_Programs\employee\employee\bin\Debug\employee.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\employee\employee\bin\Debug\employee.exe
+C:\Users\hp\Desktop\Priyanka_Programs\employee\employee\bin\Debug\employee.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\employee\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\employee\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\employee\employee\obj\Debug\employee.exe
+C:\Users\hp\Desktop\Priyanka_Programs\employee\employee\obj\Debug\employee.pdb
+F:\Priyanka_Programs\employee\employee\bin\Debug\employee.exe.config
+F:\Priyanka_Programs\employee\employee\bin\Debug\employee.exe
+F:\Priyanka_Programs\employee\employee\bin\Debug\employee.pdb
+F:\Priyanka_Programs\employee\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\employee\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\employee\employee\obj\Debug\employee.exe
+F:\Priyanka_Programs\employee\employee\obj\Debug\employee.pdb
