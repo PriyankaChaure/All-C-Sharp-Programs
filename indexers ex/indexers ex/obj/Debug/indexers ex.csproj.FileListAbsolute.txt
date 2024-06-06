@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\indexers ex\indexers ex\bin\Debug\indexers ex.exe.config
+F:\Priyanka_Programs\indexers ex\indexers ex\bin\Debug\indexers ex.exe
+F:\Priyanka_Programs\indexers ex\indexers ex\bin\Debug\indexers ex.pdb
+F:\Priyanka_Programs\indexers ex\indexers ex\obj\Debug\indexers ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\indexers ex\indexers ex\obj\Debug\indexers ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\indexers ex\indexers ex\obj\Debug\indexers ex.exe
+F:\Priyanka_Programs\indexers ex\indexers ex\obj\Debug\indexers ex.pdb
