@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate lambda expression", "delegate lambda expression\delegate lambda expression.csproj", "{A180C173-5087-41F8-9D7B-C25D1083B78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A180C173-5087-41F8-9D7B-C25D1083B78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A180C173-5087-41F8-9D7B-C25D1083B78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A180C173-5087-41F8-9D7B-C25D1083B78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A180C173-5087-41F8-9D7B-C25D1083B78B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A40D85-D5E5-4EFE-942A-40ADE8F0C46D}
+	EndGlobalSection
+EndGlobal
