@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\enum_ex\enum_ex\obj\Debug\enum_ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\enum_ex\enum_ex\obj\Debug\enum_ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\enum_ex\enum_ex\bin\Debug\enum_ex.exe.config
+F:\Priyanka_Programs\enum_ex\enum_ex\bin\Debug\enum_ex.exe
+F:\Priyanka_Programs\enum_ex\enum_ex\bin\Debug\enum_ex.pdb
+F:\Priyanka_Programs\enum_ex\enum_ex\obj\Debug\enum_ex.exe
+F:\Priyanka_Programs\enum_ex\enum_ex\obj\Debug\enum_ex.pdb
