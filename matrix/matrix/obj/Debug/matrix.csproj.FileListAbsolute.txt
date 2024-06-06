@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\matrix\matrix\bin\Debug\matrix.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\matrix\matrix\bin\Debug\matrix.exe
+C:\Users\hp\Desktop\Priyanka_Programs\matrix\matrix\bin\Debug\matrix.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\matrix\matrix\obj\Debug\matrix.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\matrix\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\matrix\matrix\obj\Debug\matrix.exe
+C:\Users\hp\Desktop\Priyanka_Programs\matrix\matrix\obj\Debug\matrix.pdb
