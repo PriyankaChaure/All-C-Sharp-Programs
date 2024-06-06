@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\priyanka_examonC#\priyanka_examonC#\bin\Debug\priyanka_examonC#.exe.config
+F:\Priyanka_Programs\priyanka_examonC#\priyanka_examonC#\bin\Debug\priyanka_examonC#.exe
+F:\Priyanka_Programs\priyanka_examonC#\priyanka_examonC#\bin\Debug\priyanka_examonC#.pdb
+F:\Priyanka_Programs\priyanka_examonC#\priyanka_examonC#\obj\Debug\priyanka_examonC#.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\priyanka_examonC#\priyanka_examonC#\obj\Debug\priyanka_examonC#.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\priyanka_examonC#\priyanka_examonC#\obj\Debug\priyanka_examonC#.exe
+F:\Priyanka_Programs\priyanka_examonC#\priyanka_examonC#\obj\Debug\priyanka_examonC#.pdb
