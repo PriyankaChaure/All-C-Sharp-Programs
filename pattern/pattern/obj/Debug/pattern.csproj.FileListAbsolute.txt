@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\pattern\pattern\bin\Debug\pattern.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\pattern\pattern\bin\Debug\pattern.exe
+C:\Users\hp\Desktop\Priyanka_Programs\pattern\pattern\bin\Debug\pattern.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\pattern\pattern\obj\Debug\pattern.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\pattern\pattern\obj\Debug\pattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\pattern\pattern\obj\Debug\pattern.exe
+C:\Users\hp\Desktop\Priyanka_Programs\pattern\pattern\obj\Debug\pattern.pdb

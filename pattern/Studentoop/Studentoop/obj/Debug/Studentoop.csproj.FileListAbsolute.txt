@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\Studentoop\Studentoop\bin\Debug\Studentoop.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\Studentoop\Studentoop\bin\Debug\Studentoop.exe
+C:\Users\hp\Desktop\Priyanka_Programs\Studentoop\Studentoop\bin\Debug\Studentoop.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\Studentoop\Studentoop\obj\Debug\Studentoop.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\Studentoop\Studentoop\obj\Debug\Studentoop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\Studentoop\Studentoop\obj\Debug\Studentoop.exe
+C:\Users\hp\Desktop\Priyanka_Programs\Studentoop\Studentoop\obj\Debug\Studentoop.pdb
