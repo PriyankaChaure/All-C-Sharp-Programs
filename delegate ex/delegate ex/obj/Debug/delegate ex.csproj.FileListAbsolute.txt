@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\delegate ex\delegate ex\bin\Debug\delegate ex.exe.config
+F:\Priyanka_Programs\delegate ex\delegate ex\bin\Debug\delegate ex.exe
+F:\Priyanka_Programs\delegate ex\delegate ex\bin\Debug\delegate ex.pdb
+F:\Priyanka_Programs\delegate ex\delegate ex\obj\Debug\delegate ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\delegate ex\delegate ex\obj\Debug\delegate ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\delegate ex\delegate ex\obj\Debug\delegate ex.exe
+F:\Priyanka_Programs\delegate ex\delegate ex\obj\Debug\delegate ex.pdb
