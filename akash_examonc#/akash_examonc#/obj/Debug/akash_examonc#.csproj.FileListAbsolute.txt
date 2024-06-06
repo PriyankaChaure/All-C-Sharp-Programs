@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\akash_examonc#\akash_examonc#\bin\Debug\akash_examonc#.exe.config
+F:\Priyanka_Programs\akash_examonc#\akash_examonc#\bin\Debug\akash_examonc#.exe
+F:\Priyanka_Programs\akash_examonc#\akash_examonc#\bin\Debug\akash_examonc#.pdb
+F:\Priyanka_Programs\akash_examonc#\akash_examonc#\obj\Debug\akash_examonc#.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\akash_examonc#\akash_examonc#\obj\Debug\akash_examonc#.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\akash_examonc#\akash_examonc#\obj\Debug\akash_examonc#.exe
+F:\Priyanka_Programs\akash_examonc#\akash_examonc#\obj\Debug\akash_examonc#.pdb
