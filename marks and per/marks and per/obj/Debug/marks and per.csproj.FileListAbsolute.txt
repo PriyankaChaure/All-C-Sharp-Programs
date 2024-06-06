@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\marks and per\marks and per\bin\Debug\marks and per.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\marks and per\marks and per\bin\Debug\marks and per.exe
+C:\Users\hp\Desktop\Priyanka_Programs\marks and per\marks and per\bin\Debug\marks and per.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\marks and per\marks and per\obj\Debug\marks and per.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\marks and per\marks and per\obj\Debug\marks and per.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\marks and per\marks and per\obj\Debug\marks and per.exe
+C:\Users\hp\Desktop\Priyanka_Programs\marks and per\marks and per\obj\Debug\marks and per.pdb
