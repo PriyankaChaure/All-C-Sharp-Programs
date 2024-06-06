@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\birthday wish\birthday wish\bin\Debug\birthday wish.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\birthday wish\birthday wish\bin\Debug\birthday wish.exe
+C:\Users\hp\Desktop\Priyanka_Programs\birthday wish\birthday wish\bin\Debug\birthday wish.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\birthday wish\birthday wish\obj\Debug\birthday wish.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\birthday wish\birthday wish\obj\Debug\birthday wish.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\birthday wish\birthday wish\obj\Debug\birthday wish.exe
+C:\Users\hp\Desktop\Priyanka_Programs\birthday wish\birthday wish\obj\Debug\birthday wish.pdb
