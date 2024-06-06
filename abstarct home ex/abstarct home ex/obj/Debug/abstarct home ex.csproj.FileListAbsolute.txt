@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\abstarct home ex\abstarct home ex\bin\Debug\abstarct home ex.exe.config
+F:\Priyanka_Programs\abstarct home ex\abstarct home ex\bin\Debug\abstarct home ex.exe
+F:\Priyanka_Programs\abstarct home ex\abstarct home ex\bin\Debug\abstarct home ex.pdb
+F:\Priyanka_Programs\abstarct home ex\abstarct home ex\obj\Debug\abstarct home ex.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\abstarct home ex\abstarct home ex\obj\Debug\abstarct home ex.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\abstarct home ex\abstarct home ex\obj\Debug\abstarct home ex.exe
+F:\Priyanka_Programs\abstarct home ex\abstarct home ex\obj\Debug\abstarct home ex.pdb
