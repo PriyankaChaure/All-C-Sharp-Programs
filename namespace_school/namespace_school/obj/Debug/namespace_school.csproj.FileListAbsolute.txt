@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\namespace_school\namespace_school\bin\Debug\namespace_school.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\namespace_school\namespace_school\bin\Debug\namespace_school.exe
+C:\Users\hp\Desktop\Priyanka_Programs\namespace_school\namespace_school\bin\Debug\namespace_school.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\namespace_school\namespace_school\obj\Debug\namespace_school.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\namespace_school\namespace_school\obj\Debug\namespace_school.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\namespace_school\namespace_school\obj\Debug\namespace_school.exe
+C:\Users\hp\Desktop\Priyanka_Programs\namespace_school\namespace_school\obj\Debug\namespace_school.pdb
