@@ -1,0 +1,7 @@
+F:\Priyanka_Programs\prachi exam c#\prachi exam c#\bin\Debug\prachi exam c#.exe.config
+F:\Priyanka_Programs\prachi exam c#\prachi exam c#\bin\Debug\prachi exam c#.exe
+F:\Priyanka_Programs\prachi exam c#\prachi exam c#\bin\Debug\prachi exam c#.pdb
+F:\Priyanka_Programs\prachi exam c#\prachi exam c#\obj\Debug\prachi exam c#.csproj.AssemblyReference.cache
+F:\Priyanka_Programs\prachi exam c#\prachi exam c#\obj\Debug\prachi exam c#.csproj.CoreCompileInputs.cache
+F:\Priyanka_Programs\prachi exam c#\prachi exam c#\obj\Debug\prachi exam c#.exe
+F:\Priyanka_Programs\prachi exam c#\prachi exam c#\obj\Debug\prachi exam c#.pdb
