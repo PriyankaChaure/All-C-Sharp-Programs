@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Priyanka_Programs\collection_generictype\collection_generictype\bin\Debug\collection_generictype.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\collection_generictype\collection_generictype\bin\Debug\collection_generictype.exe
+C:\Users\hp\Desktop\Priyanka_Programs\collection_generictype\collection_generictype\bin\Debug\collection_generictype.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\collection_generictype\collection_generictype\obj\Debug\collection_generictype.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\collection_generictype\collection_generictype\obj\Debug\collection_generictype.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\collection_generictype\collection_generictype\obj\Debug\collection_generictype.exe
+C:\Users\hp\Desktop\Priyanka_Programs\collection_generictype\collection_generictype\obj\Debug\collection_generictype.pdb
+G:\Priyanka_Programs\C#\collection_generictype\collection_generictype\bin\Debug\collection_generictype.exe.config
+G:\Priyanka_Programs\C#\collection_generictype\collection_generictype\bin\Debug\collection_generictype.exe
+G:\Priyanka_Programs\C#\collection_generictype\collection_generictype\bin\Debug\collection_generictype.pdb
+G:\Priyanka_Programs\C#\collection_generictype\collection_generictype\obj\Debug\collection_generictype.csproj.AssemblyReference.cache
+G:\Priyanka_Programs\C#\collection_generictype\collection_generictype\obj\Debug\collection_generictype.csproj.CoreCompileInputs.cache
+G:\Priyanka_Programs\C#\collection_generictype\collection_generictype\obj\Debug\collection_generictype.exe
+G:\Priyanka_Programs\C#\collection_generictype\collection_generictype\obj\Debug\collection_generictype.pdb
