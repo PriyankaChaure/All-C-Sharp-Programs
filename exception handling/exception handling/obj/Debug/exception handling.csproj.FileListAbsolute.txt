@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\exception handling\exception handling\bin\Debug\exception handling.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\exception handling\exception handling\bin\Debug\exception handling.exe
+C:\Users\hp\Desktop\Priyanka_Programs\exception handling\exception handling\bin\Debug\exception handling.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\exception handling\exception handling\obj\Debug\exception handling.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\exception handling\exception handling\obj\Debug\exception handling.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\exception handling\exception handling\obj\Debug\exception handling.exe
+C:\Users\hp\Desktop\Priyanka_Programs\exception handling\exception handling\obj\Debug\exception handling.pdb
