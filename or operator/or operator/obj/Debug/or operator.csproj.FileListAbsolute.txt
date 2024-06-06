@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\or operator\or operator\bin\Debug\or operator.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\or operator\or operator\bin\Debug\or operator.exe
+C:\Users\hp\Desktop\Priyanka_Programs\or operator\or operator\bin\Debug\or operator.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\or operator\or operator\obj\Debug\or operator.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\or operator\or operator\obj\Debug\or operator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\or operator\or operator\obj\Debug\or operator.exe
+C:\Users\hp\Desktop\Priyanka_Programs\or operator\or operator\obj\Debug\or operator.pdb
