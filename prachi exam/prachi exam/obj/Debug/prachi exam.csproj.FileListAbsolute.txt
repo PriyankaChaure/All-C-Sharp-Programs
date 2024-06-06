@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\prachi exam\prachi exam\bin\Debug\prachi exam.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\prachi exam\prachi exam\bin\Debug\prachi exam.exe
+C:\Users\hp\Desktop\Priyanka_Programs\prachi exam\prachi exam\bin\Debug\prachi exam.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\prachi exam\prachi exam\obj\Debug\prachi exam.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\prachi exam\prachi exam\obj\Debug\prachi exam.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\prachi exam\prachi exam\obj\Debug\prachi exam.exe
+C:\Users\hp\Desktop\Priyanka_Programs\prachi exam\prachi exam\obj\Debug\prachi exam.pdb
