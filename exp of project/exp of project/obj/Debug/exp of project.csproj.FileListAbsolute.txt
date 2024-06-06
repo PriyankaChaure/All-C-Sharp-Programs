@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\exp of project\exp of project\obj\Debug\exp of project.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\exp of project\exp of project\obj\Debug\exp of project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\exp of project\exp of project\bin\Debug\exp of project.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\exp of project\exp of project\bin\Debug\exp of project.exe
+C:\Users\hp\Desktop\Priyanka_Programs\exp of project\exp of project\bin\Debug\exp of project.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\exp of project\exp of project\obj\Debug\exp of project.exe
+C:\Users\hp\Desktop\Priyanka_Programs\exp of project\exp of project\obj\Debug\exp of project.pdb
