@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\poly\poly\bin\Debug\poly.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\poly\poly\bin\Debug\poly.exe
+C:\Users\hp\Desktop\Priyanka_Programs\poly\poly\bin\Debug\poly.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\poly\poly\obj\Debug\poly.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\poly\poly\obj\Debug\poly.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\poly\poly\obj\Debug\poly.exe
+C:\Users\hp\Desktop\Priyanka_Programs\poly\poly\obj\Debug\poly.pdb
