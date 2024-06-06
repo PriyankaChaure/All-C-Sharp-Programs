@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\single inheritance\single inheritance\bin\Debug\single inheritance.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\single inheritance\single inheritance\bin\Debug\single inheritance.exe
+C:\Users\hp\Desktop\Priyanka_Programs\single inheritance\single inheritance\bin\Debug\single inheritance.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\single inheritance\single inheritance\obj\Debug\single inheritance.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\single inheritance\single inheritance\obj\Debug\single inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\single inheritance\single inheritance\obj\Debug\single inheritance.exe
+C:\Users\hp\Desktop\Priyanka_Programs\single inheritance\single inheritance\obj\Debug\single inheritance.pdb
