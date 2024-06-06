@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember\static datamember\bin\Debug\static datamember.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember\static datamember\bin\Debug\static datamember.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember\static datamember\bin\Debug\static datamember.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember\static datamember\obj\Debug\static datamember.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember\static datamember\obj\Debug\static datamember.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember\static datamember\obj\Debug\static datamember.exe
+C:\Users\hp\Desktop\Priyanka_Programs\static datamember\static datamember\obj\Debug\static datamember.pdb
