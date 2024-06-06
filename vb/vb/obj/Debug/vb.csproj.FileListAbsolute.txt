@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Priyanka_Programs\vb\vb\bin\Debug\vb.exe.config
+C:\Users\hp\Desktop\Priyanka_Programs\vb\vb\bin\Debug\vb.exe
+C:\Users\hp\Desktop\Priyanka_Programs\vb\vb\bin\Debug\vb.pdb
+C:\Users\hp\Desktop\Priyanka_Programs\vb\vb\obj\Debug\vb.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Priyanka_Programs\vb\vb\obj\Debug\vb.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Priyanka_Programs\vb\vb\obj\Debug\vb.exe
+C:\Users\hp\Desktop\Priyanka_Programs\vb\vb\obj\Debug\vb.pdb
+G:\Priyanka_Programs\C#\vb\vb\bin\Debug\vb.exe.config
+G:\Priyanka_Programs\C#\vb\vb\bin\Debug\vb.exe
+G:\Priyanka_Programs\C#\vb\vb\bin\Debug\vb.pdb
+G:\Priyanka_Programs\C#\vb\vb\obj\Debug\vb.csproj.AssemblyReference.cache
+G:\Priyanka_Programs\C#\vb\vb\obj\Debug\vb.csproj.CoreCompileInputs.cache
+G:\Priyanka_Programs\C#\vb\vb\obj\Debug\vb.exe
+G:\Priyanka_Programs\C#\vb\vb\obj\Debug\vb.pdb
